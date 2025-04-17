@@ -39,7 +39,7 @@ import requests, asyncio
 
 # init discord stuff and json handling
 BOT_PREFIX = ("+")  # tupple in case we'd need multiple
-token = "MTM1NTQ1MjQwMTMwNTUxODA5MA.GZhEG8.bNssrw93AWRnWJ2T8F4qPdvum8IFuZ844eSbCw"  # add your own token
+token = "MTM1NTQ1MjQwMTMwNTUxODA5MA.Ga8LPw.uVA9Sswz2dUOWCNGUIDLQieNIM-Q8_E0rrAVM0"  # add your own token
 # emojis
 emoji_worked = "✅"
 emoji_error = "❌"
