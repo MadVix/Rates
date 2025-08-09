@@ -2,5 +2,5 @@ XPMultiplier=6.0
 HarvestAmountMultiplier=6.0
 TamingSpeedMultiplier=4.0
 MatingIntervalMultiplier=0.0051975
-BabyMatureSpeedMultiplier=60.0
+BabyMatureSpeedMultiplier=120.0
 BabyCuddleIntervalMultiplier=0.015625
